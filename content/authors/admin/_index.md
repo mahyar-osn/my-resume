@@ -65,9 +65,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,7 +81,7 @@ I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
 
 I'm a senior AI/ML scientist. I recently joined a biotech company called <a href="https://provectusalgae.com/">
 Provectus Algae Pty Ltd</a>, to lead the machine learning team. In this company,
-we want to accelerates microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
+we want to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
 
 I'm also an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
 Auckland Bioengineering Institute </a> of the University of Auckland where I undertake
