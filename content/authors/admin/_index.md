@@ -88,4 +88,4 @@ Auckland Bioengineering Institute </a> of the University of Auckland where I und
 scientific research and act as a consultant on various projects. My research interests include computational biology 🔬,
 machine learning 🧮, and neuroscience 🧠.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Osanlouy - CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
