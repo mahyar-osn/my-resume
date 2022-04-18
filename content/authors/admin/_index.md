@@ -51,16 +51,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/MahyarOsn
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mahyar-osn
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mahyar-osanlouy/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -76,6 +76,15 @@ email: ""
 highlight_name: true
 ---
 
-Mahyar Osanlouy is a senior AI scientist. His research interests include computational biology, machine learning, and neuroscience. He leads the machine learning team at Provectus Algae, a biotech company that accelerates algae growth for bio-synthetic productions. He's also an academic fellow at the University of Auckland working on computational modelling of neuroscience.
+👋 Hi there! I'm Mahyar - it's pronounced: /ˈma'h:īär/ 👋  I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
+
+I'm a senior AI/ML scientist. I recently joined a biotech company called <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
+<a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>, to lead the machine learning team. In this company,
+we want to accelerates microalgae to extract and produce natural biosynthetic molecules.
+
+I'm also an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
+Auckland Bioengineering Institute </a> of the University of Auckland where I undertake
+scientific research and act as a consultant on various projects. My research interests include computational biology, 
+machine learning, and neuroscience 🧠.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Osanlouy - CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
