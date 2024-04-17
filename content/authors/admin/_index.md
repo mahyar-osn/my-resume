@@ -84,7 +84,7 @@ monitoring using cameras and different sensors, AI assistant for project managem
 Previously I worked for a biotech company
 called <a href="https://provectusalgae.com/">
 Provectus Algae Pty Ltd</a>, where I lead the machine learning team. In this company,
-we want to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
+the aim was (and still is) to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
 
 I January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
 
