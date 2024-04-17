@@ -79,7 +79,8 @@ highlight_name: true
 I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
 
 I'm a senior AI/ML scientist. I work at TfNSW on a number of AI-based projects ranging from automatic road condition
-monitoring using cameras and different sensors, AI assistant for project management using LLM agents, 
+monitoring using cameras and different sensors, AI assistant for project management using LLM agents, etc.
+
 Previously I worked for a biotech company
 called <a href="https://provectusalgae.com/">
 Provectus Algae Pty Ltd</a>, where I lead the machine learning team. In this company,
