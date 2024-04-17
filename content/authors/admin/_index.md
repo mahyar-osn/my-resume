@@ -10,20 +10,19 @@ role: Scientist | Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Transport for NSW - Digital Engineering
+  url: https://www.transport.nsw.gov.au/digital-engineering
+
 - name: Auckland Bioengineering Institute
   url: https://www.auckland.ac.nz/en/abi.html
 
-- name: Provectus Algae
-  url: https://provectusalgae.com/
-
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational biology, machine learning, and neuroscience.
+bio: My research interests include machine learning and computational neuroscience.
 
 # Interests to show in About widget
 interests:
-- Computational Biology
 - Artificial Intelligence
-- Neuroscience
+- Computational Neuroscience
 
 # Education to show in About widget
 education:
@@ -79,9 +78,14 @@ highlight_name: true
 
 I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
 
-I'm a senior AI/ML scientist. I recently joined a biotech company called <a href="https://provectusalgae.com/">
-Provectus Algae Pty Ltd</a>, to lead the machine learning team. In this company,
+I'm a senior AI/ML scientist. I work at TfNSW on a number of AI-based projects ranging from automatic road condition
+monitoring using cameras and different sensors, AI assistant for project management using LLM agents, 
+Previously I worked for a biotech company
+called <a href="https://provectusalgae.com/">
+Provectus Algae Pty Ltd</a>, where I lead the machine learning team. In this company,
 we want to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
+
+I January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
 
 I'm also an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
 Auckland Bioengineering Institute </a> of the University of Auckland where I undertake
