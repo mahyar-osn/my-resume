@@ -90,12 +90,14 @@ the aim was (and still is) to accelerate microalgae 🍀 to extract and produce 
 Before that, I worked at Auckland Bioengineering Institute, Soul Machines, and Aider as R&D Software Engineer on
 computational modelling, machine learning, and computer vision.
 
-I January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
-
 I'm still an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
 Auckland Bioengineering Institute </a> of the University of Auckland where I undertake
 scientific research and act as a consultant on various projects. My research interests include computational biology 🔬,
 machine learning 🧮, and neuroscience 🧠. Additionally, I collaborate with researchers at University of Oxford on various
 computational neuroscience studies.
+
+As a side hustle, in January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
+
+Aside from all of the above, I enjoy acting 🎭 and have played in a number of theatre productions in Auckland and Sydney. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
