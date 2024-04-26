@@ -76,21 +76,26 @@ highlight_name: true
 ---
 👋 Hi there! I'm Mahyar - it's pronounced: /ˈma'h:īär/ 👋
 
-I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
+I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a Homo sapien 👨
 
-I'm a senior AI/ML scientist. I work at TfNSW on a number of AI-based projects ranging from automatic road condition
-monitoring using cameras and different sensors, AI assistant for project management using LLM agents, etc.
+I'm a senior AI/ML scientist. I work at TfNSW on a number of AI-based projects ranging from:
+- Automatic road condition monitoring using computer vision;
+- AI assistant in project management for document generation and analytics using LLM agents;
 
 Previously I worked for a biotech company
 called <a href="https://provectusalgae.com/">
 Provectus Algae Pty Ltd</a>, where I lead the machine learning team. In this company,
 the aim was (and still is) to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
 
+Before that, I worked at Auckland Bioengineering Institute, Soul Machines, and Aider as R&D Software Engineer on
+computational modelling, machine learning, and computer vision.
+
 I January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
 
-I'm also an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
+I'm still an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
 Auckland Bioengineering Institute </a> of the University of Auckland where I undertake
 scientific research and act as a consultant on various projects. My research interests include computational biology 🔬,
-machine learning 🧮, and neuroscience 🧠.
+machine learning 🧮, and neuroscience 🧠. Additionally, I collaborate with researchers at University of Oxford on various
+computational neuroscience studies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
