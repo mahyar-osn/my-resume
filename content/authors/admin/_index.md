@@ -82,7 +82,7 @@ I am passionate about intelligence, both in brains and machines.
 
 I'm a senior AI/ML scientist. I work at <a href="https://www.transport.nsw.gov.au/digital-engineering"> TfNSW </a>
 on a number of AI-based projects ranging from:
-- Automatic road condition monitoring using computer vision;
+- Automatic road condition monitoring using computer vision & deep learning;
 - AI assistant in project management for document generation and analytics using LLM agents;
 
 Previously I worked for a biotech company
