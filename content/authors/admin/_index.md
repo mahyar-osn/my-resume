@@ -21,7 +21,7 @@ bio: My research interests include machine learning and computational neuroscien
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Machine Learning
 - Computational Neuroscience
 
 # Education to show in About widget
@@ -76,9 +76,12 @@ highlight_name: true
 ---
 👋 Hi there! I'm Mahyar - it's pronounced: /ˈma'h:īär/ 👋
 
-I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a Homo sapien 👨
+[//]: # (I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a Homo sapien 👨 )
 
-I'm a senior AI/ML scientist. I work at TfNSW on a number of AI-based projects ranging from:
+I am passionate about intelligence, both in brains and machines.
+
+I'm a senior AI/ML scientist. I work at <a href="https://www.transport.nsw.gov.au/digital-engineering"> TfNSW </a>
+on a number of AI-based projects ranging from:
 - Automatic road condition monitoring using computer vision;
 - AI assistant in project management for document generation and analytics using LLM agents;
 
@@ -87,13 +90,14 @@ called <a href="https://provectusalgae.com/">
 Provectus Algae Pty Ltd</a>, where I lead the machine learning team. In this company,
 the aim was (and still is) to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
 
-Before that, I worked at Auckland Bioengineering Institute, Soul Machines, and Aider as R&D Software Engineer on
+Before that, I worked at <a href="https://www.auckland.ac.nz/en/abi.html/"> Auckland Bioengineering Institute </a>,
+<a href="https://www.soulmachines.com/"> Soul Machines </a>, and <a href="https://www.aider.ai/"> Aider </a> as R&D Software Engineer on
 computational modelling, machine learning, and computer vision.
 
-I'm still an active researcher 📚. I am affiliated with <a href="https://www.auckland.ac.nz/en/abi.html/">
-Auckland Bioengineering Institute </a> of the University of Auckland where I undertake
+I'm still an active researcher 📚. I am affiliated with Auckland Bioengineering Institute of the University of Auckland where I undertake
 scientific research and act as a consultant on various projects. My research interests include computational biology 🔬,
-machine learning 🧮, and neuroscience 🧠. Additionally, I collaborate with researchers at University of Oxford on various
+machine learning 🧮, and neuroscience 🧠. Additionally, I collaborate with researchers at the
+<a href="https://www.mrcbndu.ox.ac.uk/groups/bogacz-group"> Bogacz Group </a> from University of Oxford on various
 computational neuroscience studies.
 
 As a side hustle, in January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
