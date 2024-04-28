@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Mathematical Modelling & Bioengineering
+  - course: PhD in Mathematical Modelling & Machine Learning
     institution: University of Auckland
     year: 2018
   - course: GradDipSci in Computer Science & Mathematics
