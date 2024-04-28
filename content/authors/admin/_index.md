@@ -47,10 +47,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MahyarOsn
+  link: [user@example.com](mailto:user@example.com)
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/MahyarOsn
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en
