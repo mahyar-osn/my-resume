@@ -80,17 +80,19 @@ highlight_name: true
 
 I am passionate about intelligence, both in brains and machines.
 
-I'm a senior AI/ML scientist. I work at <a href="https://www.transport.nsw.gov.au/digital-engineering"> TfNSW </a>
+I'm a senior AI/ML scientist. I work at <a href="https://www.cotreat.ai/"> CoTreat AI </a>, developing computer vision 
+algorithms for dental diagnostics and treatment.
 on a number of AI-based projects ranging from:
 - Automatic road condition monitoring using computer vision & deep learning;
 - AI assistant in project management for document generation and analytics using LLM agents;
 
-Previously I worked for a biotech company
-called <a href="https://provectusalgae.com/">
-Provectus Algae Pty Ltd</a>, where I lead the machine learning team. In this company,
+Previously I worked for NSW Transport to automatically monitor road condition using ML-based computer vision techniques.
+
+Before that, I was an ML Scientist at <a href="https://provectusalgae.com/">
+Provectus Algae Pty Ltd</a>, a biotech company where I lead the machine learning team. In this company,
 the aim was (and still is) to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
 
-Before that, I worked at <a href="https://www.auckland.ac.nz/en/abi.html/"> Auckland Bioengineering Institute </a>,
+In New Zealand, I worked at <a href="https://www.auckland.ac.nz/en/abi.html/"> Auckland Bioengineering Institute </a>,
 <a href="https://www.soulmachines.com/"> Soul Machines </a>, and <a href="https://www.aider.ai/"> Aider </a> as R&D Software Engineer on
 computational modelling, machine learning, and computer vision.
 
