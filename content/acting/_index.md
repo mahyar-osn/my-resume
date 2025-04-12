@@ -17,16 +17,19 @@ Beyond the world of technology and science, I find creative expression through a
 
 <div class="gallery-grid">
   <div class="gallery-item">
-    <img src="gallery/IMG_0149.jpg" alt="Performance">
+    <img src="gallery/IMG_0174.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0643.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
     <img src="gallery/IMG_0172.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
-    <img src="gallery/IMG_0174.jpg" alt="Performance">
+    <img src="gallery/IMG_0639.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
-    <img src="gallery/IMG_0639.jpg" alt="Performance">
+    <img src="gallery/IMG_0123.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
     <img src="gallery/IMG_0640.jpg" alt="Performance">
@@ -35,16 +38,22 @@ Beyond the world of technology and science, I find creative expression through a
     <img src="gallery/IMG_0642.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
-    <img src="gallery/IMG_0643.jpg" alt="Performance">
+    <img src="gallery/IMG_0149.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0125.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
     <img src="gallery/IMG_0644.jpg" alt="Performance">
+  </div>
+    <div class="gallery-item">
+    <img src="gallery/IMG_0649.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
     <img src="gallery/IMG_0648.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
-    <img src="gallery/IMG_0649.jpg" alt="Performance">
+    <img src="gallery/IMG_0127.jpg" alt="Performance">
   </div>
   <div class="gallery-item">
     <img src="gallery/IMG_0651.jpg" alt="Performance">
