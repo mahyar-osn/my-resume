@@ -10,8 +10,8 @@ role: Scientist | Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Transport for NSW - Digital Engineering
-  url: https://www.transport.nsw.gov.au/digital-engineering
+- name: CoTreat AI
+  url: https://www.cotreat.ai/
 
 - name: Auckland Bioengineering Institute
   url: https://www.auckland.ac.nz/en/abi.html
@@ -27,16 +27,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Mathematical Modelling & Machine Learning
+  - course: PhD Mathematical Modelling
     institution: University of Auckland
     year: 2018
-  - course: GradDipSci in Computer Science & Mathematics
+  - course: GradDipSci Computer Science & Mathematics
     institution: University of Auckland
     year: 2017
-  - course: BSc (Hons) in Biomedical Science
+  - course: BSc (Hons) Biomedical Science
     institution: University of Auckland
     year: 2012
-  - course: BSc in Physiology
+  - course: BSc Physiology
     institution: University of Auckland
     year: 2011
 
@@ -47,7 +47,7 @@ education:
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 
+#  link:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/MahyarOsn
@@ -62,7 +62,7 @@ social:
   link: https://www.linkedin.com/in/mahyar-osanlouy/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -74,36 +74,40 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-👋 Hi there! I'm Mahyar - it's pronounced: /ˈma'h:īär/ 👋
+# 👋 Hello, World! I'm Mahyar (/ˈma'h:īär/)
 
-[//]: # (I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a Homo sapien 👨 )
+### I am passionate about intelligence, both in brains and machines.
 
-I am passionate about intelligence, both in brains and machines.
+I'm fascinated by the two most complex intelligence systems we know: **the human brain** and **artificial intelligence**. This dual passion has shaped my career at the intersection of neuroscience, machine learning, and computer vision.
 
-I'm a senior AI/ML scientist. I work at <a href="https://www.cotreat.ai/"> CoTreat AI </a>, developing computer vision 
-algorithms for dental diagnostics and treatment.
-on a number of AI-based projects ranging from:
-- Automatic road condition monitoring using computer vision & deep learning;
-- AI assistant in project management for document generation and analytics using LLM agents;
+### What I'm Building Now
 
-Previously I worked for NSW Transport to automatically monitor road condition using ML-based computer vision techniques.
+As a Senior ML Scientist at <a href="https://www.cotreat.ai/">CoTreat AI</a>, I'm building AI-based computer vision
+solutions to transform dental healthcare. We're creating AI systems that can detect, diagnose, and assist in treatment
+planning with precision that augments human expertise 🦷.
 
-Before that, I was an ML Scientist at <a href="https://provectusalgae.com/">
-Provectus Algae Pty Ltd</a>, a biotech company where I lead the machine learning team. In this company,
-the aim was (and still is) to accelerate microalgae 🍀 to extract and produce natural biosynthetic molecules 🧬.
+### My AI Journey
 
-In New Zealand, I worked at <a href="https://www.auckland.ac.nz/en/abi.html/"> Auckland Bioengineering Institute </a>,
-<a href="https://www.soulmachines.com/"> Soul Machines </a>, and <a href="https://www.aider.ai/"> Aider </a> as R&D Software Engineer on
-computational modelling, machine learning, and computer vision.
+My path through AI has been diverse and purpose-driven:
+- Leading the ML team at <a href="https://provectusalgae.com/">Provectus Algae</a>, I applied AI to accelerate the
+discovery and production of natural biosynthetic molecules from microalgae 🍀🧬.
+- At <a href="https://www.auckland.ac.nz/en/abi.html/">Auckland Bioengineering Institute</a>, I worked on ground-breaking
+projects in the intersection of AI and bioengineering.
+- As a ML Scientist at <a href="https://www.soulmachines.com/">Soul Machines</a>, I worked on projects in the realm of digital humans.
+- At <a href="https://www.aider.ai/">Aider</a>, I worked on building systems that bridge natural language processing and practical business applications.
 
-I'm still an active researcher 📚. I am affiliated with Auckland Bioengineering Institute of the University of Auckland where I undertake
-scientific research and act as a consultant on various projects. My research interests include computational biology 🔬,
-machine learning 🧮, and neuroscience 🧠. Additionally, I collaborate with researchers at the
-<a href="https://www.mrcbndu.ox.ac.uk/groups/bogacz-group"> Bogacz Group </a> from University of Oxford on various
-computational neuroscience studies.
+### Research & Collaboration
 
-As a side hustle, in January 2023, I started Entropia, my consultancy company to help other companies with their AI/ML projects.
+I maintain active research ties with the Auckland Bioengineering Institute 📚, where I explore the frontiers of
+computational biology 🔬 and neuroscience 🧠. My collaboration with Oxford University's
+<a href="https://www.mrcbndu.ox.ac.uk/groups/bogacz-group">Bogacz Group</a> focuses on predictive coding, exploring how 
+our brains process information and make predictions.
 
-Aside from all of the above, I enjoy acting 🎭 and have played in a number of theatre productions in Auckland and Sydney. 
+### Beyond Technology
+
+When I step away from algorithms and neural networks, you might find me on stage 🎭. My passion for acting has led me 
+to perform in theatre productions and films across Auckland and Sydney – exploring human emotion and storytelling from 
+an entirely different perspective. Check out some of my acting work [here](/acting/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
