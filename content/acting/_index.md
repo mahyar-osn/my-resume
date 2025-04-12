@@ -11,53 +11,64 @@ header:
 
 ## My Acting Journey
 
-Welcome to my acting portfolio! Acting is one of my greatest passions outside of my professional career. I've had the pleasure of performing in various theatre productions in Auckland and Sydney.
+Beyond the world of technology and science, I find creative expression through acting - my artistic passion that balances my analytical work. Since 2015, I've performed in various theatre productions and independent films across Auckland and Sydney, exploring characters that challenge me to understand human emotion and behavior from new perspectives. This artistic outlet not only enriches my personal life but also enhances my professional work by developing my communication skills, emotional intelligence, and ability to collaborate creatively with diverse teams.
 
-### Theatre Productions
+## Some photos from my performances
 
-Below is a selection of theatre productions I've been involved in. Each production has been a unique and enriching experience that has helped me grow both as an actor and as a person.
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="gallery/IMG_0149.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0172.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0174.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0639.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0640.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0642.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0643.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0644.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0648.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0649.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0651.jpg" alt="Performance">
+  </div>
+  <div class="gallery-item">
+    <img src="gallery/IMG_0653.jpg" alt="Performance">
+  </div>
+</div>
 
-#### Production 1: [Title]
-**Role:** [Character Name]  
-**Venue:** [Theatre Name], [City]  
-**Director:** [Director's Name]  
-**Year:** [Year]
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+}
 
-[Brief description of the production and your role]
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
 
-#### Production 2: [Title]
-**Role:** [Character Name]  
-**Venue:** [Theatre Name], [City]  
-**Director:** [Director's Name]  
-**Year:** [Year]
-
-[Brief description of the production and your role]
-
-### Film Projects
-
-In addition to theatre, I've also worked on several film projects:
-
-#### Film 1: [Title]
-**Role:** [Character Name]  
-**Director:** [Director's Name]  
-**Year:** [Year]
-
-[Brief description of the film and your role]
-
-### Acting Philosophy
-
-[Share your thoughts on acting, what it means to you, your approach, influences, etc.]
-
-### Training & Skills
-
-- **Training:** [List any formal training, workshops, or classes you've taken]
-- **Skills:** [List specific acting skills, techniques, or styles you're proficient in]
-- **Languages:** [If you can perform in multiple languages]
-
-### Gallery
-
-[This section can include photos from performances, behind-the-scenes shots, etc.]
-
-### Contact for Acting Opportunities
-
-If you're interested in collaborating on a theatre or film project, please feel free to reach out to me at [your contact information or a contact form].
+.gallery-item img:hover {
+  transform: scale(1.03);
+}
+</style>
