@@ -54,6 +54,7 @@ Beyond the world of technology and science, I find creative expression through a
   </div>
 </div>
 
+
 <style>
 .gallery-grid {
   display: grid;
