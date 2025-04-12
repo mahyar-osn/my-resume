@@ -110,4 +110,3 @@ to perform in theatre productions and films across Auckland and Sydney – explo
 an entirely different perspective. Check out some of my acting work [here](/acting/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
