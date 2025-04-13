@@ -1,12 +1,12 @@
 ---
-title: AI-Driven Radiomics for Precision Prostate Cancer Therapy 
+title: AI-Driven Radiomics for Precision Prostate Cancer Therapy
 summary: Computational Pipeline for Large-Scale Histology
 tags:
 - Neuroscience
 - Computational Modeling
 - AI
 - Machine Learning
-date: "2024-04-01T00:00:00Z"
+date: "2023-08-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,19 +20,19 @@ links:
 - icon: file-alt
   icon_pack: fas
   name: Paper
-  url: https://link.springer.com/article/10.1186/s13550-023-00984-5/figures/4
+  url: https://link.springer.com/article/10.1186/s13550-023-00984-5
 ---
 # AI-Driven Radiomics for Precision Prostate Cancer Therapy
 
-**Authors**: Tsz Him Chan, Annette Haworth, Alan Wang, Mahyar Osanlouy et al.  
-**Publication**: *EJNMMI Research* (2023)  
-**Code**: [Available on Request](mailto:Hayley.Reynolds@auckland.ac.nz)  
+**Authors**: Tsz Him Chan, Annette Haworth, Alan Wang, Mahyar Osanlouy et al.
+**Publication**: *EJNMMI Research* (2023)
+**Code**: [Available on Request](mailto:Hayley.Reynolds@auckland.ac.nz)
 
 ---
 
-## Overview  
+## Overview
 This pioneering study developed an AI-powered radiomics pipeline to optimize biologically targeted radiation therapy
-(BiRT) for prostate cancer. By integrating PSMA PET/CT with multiparametric MRI (mpMRI), 
+(BiRT) for prostate cancer. By integrating PSMA PET/CT with multiparametric MRI (mpMRI),
 we created voxel-level predictions of tumor location and grade through advanced image registration and machine learning
 techniques.
 
@@ -56,9 +56,9 @@ align_pet_ct() → rigid_registration(mpMRI) →
 deformable_registration(ex_vivo_MRI) →
 histology_annotation_propagation()
 ```
-- **Challenges Solved**:  
-- Bladder filling artifacts in PET  
-- Partial volume effects in 3.27mm PET slices  
+- **Challenges Solved**:
+- Bladder filling artifacts in PET
+- Partial volume effects in 3.27mm PET slices
 - Non-linear prostate deformation post-resection
 
 ### 2. Radiomic Feature Engineering
@@ -68,8 +68,8 @@ histology_annotation_propagation()
 | DCE MRI        | Ktrans, iAUGC60, TTP perfusion maps         | Pharmacokinetic modeling           |
 | ADC Maps       | NGTDM coarseness, percentile values         | b=1200 s/mm² diffusion restriction |
 
-**Feature Selection**:  
-- ANOVA filtering → Gini impurity ranking  
+**Feature Selection**:
+- ANOVA filtering → Gini impurity ranking
 - Final feature set: 50 most discriminative parameters
 
 ---
@@ -94,9 +94,9 @@ histology_annotation_propagation()
 *Receiver operating characteristics for different models*
 
 ### Key Radiomic Predictors
-1. **PET**: 3D LoG(σ=3mm) minimum  
-2. **ADC**: NGTDM Coarseness  
-3. **DCE MRI**: Ktrans 90th percentile  
+1. **PET**: 3D LoG(σ=3mm) minimum
+2. **ADC**: NGTDM Coarseness
+3. **DCE MRI**: Ktrans 90th percentile
 
 ---
 
@@ -104,8 +104,8 @@ histology_annotation_propagation()
 - **Personalized Radiotherapy**: Enables voxel-level dose painting based on metabolic/perfusion features
 - **Early Recurrence Prediction**: High-grade lesions showed 2.8× higher PSMA uptake (p<0.01)
 - **Technical Impact**:
-- Solved partial volume effects in PET-guided planning  
-- Demonstrated perfusion > diffusion for grade prediction  
+- Solved partial volume effects in PET-guided planning
+- Demonstrated perfusion > diffusion for grade prediction
 - Open-source registration framework [3D Slicer Plugin]
 
 ---

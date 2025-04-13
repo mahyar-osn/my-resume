@@ -1,5 +1,17 @@
 // Custom styles
 
+// Math equation styles
+.math-display {
+  overflow-x: auto;
+  margin: 1.2em 0;
+}
+
+.math-inline {
+  display: inline-block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 // Acting gallery styles
 .gallery-grid {
   display: grid;

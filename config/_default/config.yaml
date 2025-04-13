@@ -56,6 +56,16 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+  math:
+    renderer: katex
 related:
   threshold: 80
   includeNewer: true

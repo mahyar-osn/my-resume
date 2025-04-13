@@ -6,7 +6,7 @@ tags:
 - Computational Modeling
 - AI
 - Machine Learning
-date: "2024-04-01T00:00:00Z"
+date: "2023-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,9 +27,9 @@ links:
   url: https://doi.org/10.1371/journal.pcbi.1011183
 ---
 
-**Authors**: Beren Millidge, Mufeng Tang, Mahyar Osanlouy, Nicol S. Harper, Rafal Bogacz   
-**Publication**: PLOS Computational Biology (April 2024)   
-**Code**: [GitHub Repository](https://github.com/C16MItang/temporal-predictive-coding)   
+**Authors**: Beren Millidge, Mufeng Tang, Mahyar Osanlouy, Nicol S. Harper, Rafal Bogacz
+**Publication**: PLOS Computational Biology (April 2024)
+**Code**: [GitHub Repository](https://github.com/C16MItang/temporal-predictive-coding)
 **Read the paper**: [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1011183)
 
 ## Overview
