@@ -49,7 +49,8 @@ The goal is to infer the current hidden state $x_{k}$ given the current observat
 $y_{1:k-1}$. To achieve this, we formulate a variational free energy objective:
 
 $$
-\mathcal{F}_k = \frac{1}{2}(y_k - C f(x_k))^T \Sigma_y^{-1} (y_k - C f(x_k)) + \frac{1}{2}(x_k - A f(\hat{x}_{k-1}) - B u_k)^T \Sigma_x^{-1} (x_k - A f(\hat{x}_{k-1}) - B u_k)
+\mathcal{F}_k = \frac{1}{2}(y_k - C f(x_k))^T \Sigma_y^{-1} (y_k - C f(x_k)) +
+\frac{1}{2}(x_k - A f(\hat{x}_{k-1}) - B u_k)^T \Sigma_x^{-1} (x_k - A f(\hat{x}_{k-1}) - B u_k)
 $$
 
 This free energy can be understood as the sum of two weighted prediction errors:
@@ -74,6 +75,7 @@ Where $\epsilon_x$ and $\epsilon_y$ are precision-weighted prediction errors:
 $$
 \epsilon_y = \Sigma_y^{-1} \left( y_k - C f(x_k) \right)
 $$
+
 $$
 \epsilon_x = \Sigma_x^{-1} \left( x_k - A f(\hat{x}_{k-1}) - B u_k \right)
 $$
@@ -120,9 +122,11 @@ For linear systems, the tPC dynamics at equilibrium yield:
 $$
 \hat{x}_k^- = A \hat{x}_{k-1} + B u_k
 $$
+
 $$
 \hat{x}_k = \hat{x}_k^- + K(y_k - C\hat{x}_k^-)
 $$
+
 $$
 K = \Sigma_x C^T \left[C \Sigma_x C^T + \Sigma_y \right]^{-1}
 $$
