@@ -6,7 +6,7 @@ tags:
 - Computational Modeling
 - AI
 - Machine Learning
-date: "2023-11-15T00:00:00Z"
+date: "2024-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

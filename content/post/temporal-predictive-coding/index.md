@@ -48,10 +48,8 @@ Where:
 The goal is to infer the current hidden state $x_{k}$ given the current observation $y_{k}$ and previous state estimate
 $y_{1:k-1}$. To achieve this, we formulate a variational free energy objective:
 
-$$
-\mathcal{F}_k = \frac{1}{2}(y_k - C f(x_k))^T \Sigma_y^{-1} (y_k - C f(x_k)) +
-\frac{1}{2}(x_k - A f(\hat{x}_{k-1}) - B u_k)^T \Sigma_x^{-1} (x_k - A f(\hat{x}_{k-1}) - B u_k)
-$$
+$$\mathcal{F}_k = \frac{1}{2}(y_k - C f(x_k))^T \Sigma_y^{-1} (y_k - C f(x_k)) +
+\frac{1}{2}(x_k - A f(\hat{x}_{k-1}) - B u_k)^T \Sigma_x^{-1} (x_k - A f(\hat{x}_{k-1}) - B u_k)$$
 
 This free energy can be understood as the sum of two weighted prediction errors:
 1. **Sensory prediction errors**: The difference between observed and predicted sensory inputs $y_k - Cf(x_k)$.
@@ -118,6 +116,7 @@ this simplification, our tPC model achieves comparable performance to the Kalman
 computationally simpler and more biologically plausible.
 
 For linear systems, the tPC dynamics at equilibrium yield:
+
 
 $$
 \hat{x}_k^- = A \hat{x}_{k-1} + B u_k
