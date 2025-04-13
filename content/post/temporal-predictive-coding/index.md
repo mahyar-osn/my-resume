@@ -119,7 +119,7 @@ For linear systems, the tPC dynamics at equilibrium yield:
 
 
 $$
-\hat{x}_k^- = A \hat{x}_{k-1} + B u_k
+\hat{x}_k^- = A\hat{x}_{k-1} + Bu_k
 $$
 
 $$
