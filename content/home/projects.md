@@ -30,10 +30,12 @@ content:
     tag: '*'
   - name: AI
     tag: AI
-  - name: Computer Vision
-    tag: Computer Vision
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Neuroscience
+    tag: Neuroscience
+  - name: Computational Modeling
+    tag: Computational Modeling
+  - name: Machine Learning
+    tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
