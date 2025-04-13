@@ -122,6 +122,6 @@ sections).
 - **HPC**: New Zealand eScience Infrastructure (NeSI)  
 
 ![Neuroglancer screenshot placeholder](2025-04-13_22-30.png)  
-*Interactive 3D exploration – click to launch*
+*Interactive 3D exploration*
 
 ---
