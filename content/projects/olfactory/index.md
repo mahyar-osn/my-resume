@@ -26,9 +26,9 @@ links:
   name: Paper
   url: https://www.nature.com/articles/s42003-024-07017-4
 ---
-**Authors**: Victoria F Low, Chinchien Lin, Shan Su, Mahyar Osanlouy, Mona Khan, Soroush Safaei, Gonzalo Maso Talou, Maurice A Curtis, Peter Mombaerts
-**Publication**: *Communications Biology* (November 2024)
-**Code**: [Zenodo Repository](https://zenodo.org/records/7865523)
+**Authors**: Victoria F Low, Chinchien Lin, Shan Su, Mahyar Osanlouy, Mona Khan, Soroush Safaei, Gonzalo Maso Talou, Maurice A Curtis, Peter Mombaerts  
+**Publication**: *Communications Biology* (November 2024)   
+**Code**: [Zenodo Repository](https://zenodo.org/records/7865523)   
 **Interactive 3D Model**: [Neuroglancer Platform](https://www.nature.com/articles/s42003-024-07017-4)
 
 ---

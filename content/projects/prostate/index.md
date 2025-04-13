@@ -24,8 +24,8 @@ links:
 ---
 # AI-Driven Radiomics for Precision Prostate Cancer Therapy
 
-**Authors**: Tsz Him Chan, Annette Haworth, Alan Wang, Mahyar Osanlouy et al.
-**Publication**: *EJNMMI Research* (2023)
+**Authors**: Tsz Him Chan, Annette Haworth, Alan Wang, Mahyar Osanlouy et al.  
+**Publication**: *EJNMMI Research* (2023)  
 **Code**: [Available on Request](mailto:Hayley.Reynolds@auckland.ac.nz)
 
 ---
