@@ -115,7 +115,6 @@ In contrast, tPC approximates this by assuming a point estimate (Dirac distribut
 this simplification, our tPC model achieves comparable performance to the Kalman filter in tracking tasks while being
 computationally simpler and more biologically plausible.
 
-
 For linear systems, the tPC dynamics at equilibrium yield:
 
 
