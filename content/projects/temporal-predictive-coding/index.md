@@ -14,7 +14,7 @@ external_link: ""
 image:
   caption: Temporal Predictive Coding
   focal_point: Smart
-  filename: journal.pcbi.1011183.g006.PNG
+  placement: 1
 
 links:
 - icon: github

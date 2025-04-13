@@ -9,5 +9,5 @@ header:
   image: ""
 ---
 
-Welcome to my projects page! Here you'll find a collection of professional and personal projects I've worked on. Each project has its own dedicated page with detailed information.
-
+Here you'll find a collection of professional and personal projects I've worked on. Each project has its own
+dedicated page with detailed information.
