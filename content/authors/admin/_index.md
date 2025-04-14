@@ -23,6 +23,7 @@ bio: My research interests include machine learning and computational neuroscien
 interests:
 - Machine Learning
 - Computational Neuroscience
+- Bioengineering
 
 # Education to show in About widget
 education:
