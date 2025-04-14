@@ -36,6 +36,12 @@ content:
     tag: Computational Modeling
   - name: Machine Learning
     tag: Machine Learning
+  - name: 3D Imaging
+    tag: 3D Imaging
+  - name: Finite Element Methods
+    tag: Finite Element Methods
+  - name: Experimental Biology
+    tag: Experimental Biology
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
