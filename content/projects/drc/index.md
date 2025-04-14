@@ -26,7 +26,7 @@ links:
   name: Paper
   url: https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.693735/full
 ---
-**Authors**: VMahyar Osanlouy, Anita Bandrowski, Bernard de Bono, David Brooks, Antonino M. Cassarà, Richard Christie, Nazanin Ebrahimi, Tom Gillespie, Jeffrey S. Grethe, Leonardo A. Guercio, Maci Heal, Mabelle Lin, Niels Kuster, Maryann E. Martone, Esra Neufeld, David P. Nickerson, Elias G. Soltani, Susan Tappan, Joost B. Wagenaar, Katie Zhuang, Peter J. Hunter  
+**Authors**: Mahyar Osanlouy, Anita Bandrowski, Bernard de Bono, David Brooks, Antonino M. Cassarà, Richard Christie, Nazanin Ebrahimi, Tom Gillespie, Jeffrey S. Grethe, Leonardo A. Guercio, Maci Heal, Mabelle Lin, Niels Kuster, Maryann E. Martone, Esra Neufeld, David P. Nickerson, Elias G. Soltani, Susan Tappan, Joost B. Wagenaar, Katie Zhuang, Peter J. Hunter  
 **Publication**: *Front. Physiol.* (June 2021)   
 **Website**: [SPARC Science](https://sparc.science/)   
 **Interactive 3D Models & Data**: [MAP Web App](https://sparc.science/apps/maps?type=ac)
