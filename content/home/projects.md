@@ -28,8 +28,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: AI
-    tag: AI
   - name: Neuroscience
     tag: Neuroscience
   - name: Computational Modeling
