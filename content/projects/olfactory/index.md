@@ -4,8 +4,9 @@ summary: Computational Pipeline for Large-Scale Histology
 tags:
 - Neuroscience
 - Computational Modeling
-- AI
 - Machine Learning
+- 3D Imaging
+
 date: "2023-11-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

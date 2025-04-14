@@ -4,8 +4,10 @@ summary: Building a Computational Models for the Autonomic Nervous System Commun
 tags:
 - Neuroscience
 - Computational Modeling
-- AI
-- Machine Learning
+- Reproducible Science
+- Experimental Biology
+- Finite Element Methods
+
 date: "2023-09-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

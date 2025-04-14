@@ -4,7 +4,6 @@ summary: A new framework for neural processing of dynamic stimuli
 tags:
 - Neuroscience
 - Computational Modeling
-- AI
 - Machine Learning
 date: "2024-12-15T00:00:00Z"
 
