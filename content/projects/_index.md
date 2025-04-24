@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Selected Projects
 type: page
 summary: A showcase of my professional and personal projects
 
@@ -9,5 +9,5 @@ header:
   image: ""
 ---
 
-Here you'll find a collection of professional and personal projects I've worked on. Each project has its own
+Here you'll find a selected collection of professional and personal projects I've worked on. Each project has its own
 dedicated page with detailed information.
