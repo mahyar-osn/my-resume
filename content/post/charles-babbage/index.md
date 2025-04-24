@@ -29,7 +29,7 @@ categories:
   - Technology History
 ---
 
-### Introduction
+## Introduction
 153 years ago today, Charles Babbage—one of history’s true polymath geniuses—died. Yet, his influence on the modern world is everywhere. Babbage’s most groundbreaking idea was the Analytical Engine, a mechanical marvel that essentially defined the blueprint for the computers we use today.
 
 ## The Analytical Engine: A Machine Ahead of Its Time
