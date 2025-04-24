@@ -1,9 +1,36 @@
 ---
 title: "Temporal Predictive Coding: A New Framework for Neural Processing of Dynamic Stimuli"
+subtitle: "A computational approach to understanding how the brain processes dynamic stimuli"
 date: "2023-11-15T00:00:00Z"
----
 
-# Temporal Predictive Coding: A New Framework for Neural Processing of Dynamic Stimuli
+# Summary for listings and search engines
+summary: "Our temporal predictive coding model provides a biologically plausible explanation for how the brain processes and predicts dynamic sensory inputs, bridging the gap between normative theories and neural mechanisms."
+
+# Link this post with a project
+projects: []
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+# Show the page's date?
+show_date: true
+
+authors:
+  - admin
+
+tags:
+  - Neuroscience
+  - Computational Modeling
+  - Predictive Coding
+
+categories:
+  - Research
+---
 
 ## Introduction
 One of the most fascinating aspects of the brain is its ability to process and predict dynamic sensory inputs that
