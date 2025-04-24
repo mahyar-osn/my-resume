@@ -47,9 +47,10 @@ Yet, as machine learning frameworks like PyTorch have redefined the computationa
 finds itself in a new context—one where differentiability, GPU acceleration, and integration with deep neural architectures
 are not just desirable, but essential.
 
-This blog post embarks on a dual journey. On one hand, it delves into the technicalities of implementing Kalman filters in PyTorch, 
-leveraging its tensor operations and automatic differentiation to enable new research and applications. On the other, i
-t poses philosophical questions about the nature of uncertainty, the meaning of optimality, 
+In this blog post I want to embark on a dual journey. On one hand, I want to delve into the technicalities of 
+implementing Kalman filters in PyTorch, leveraging its tensor operations and automatic differentiation to enable 
+new research and applications.
+On the other, I want to reflect on the philosophical questions about the nature of uncertainty, the meaning of optimality, 
 and the evolving relationship between model-based and data-driven approaches. By weaving together rigorous mathematics, 
 practical coding insights, and reflective inquiry, we aim to illuminate both the power and the limitations of state estimation
 in the age of neural computation.
@@ -91,7 +92,10 @@ P_{k|k-1} = F_{k} P_{k-1|k-1} F_{k}^{T} + Q_{k}
 \end{aligned}
 $$
 
-Here $\hat{x}_{k|k-1}$ is the predicted state mean, and $P_{k|k-1}$ is the predicted state covariance.
+Here $\hat{x}_{k|k-1}$ 
+is the predicted state mean, 
+and $P_{k|k-1}$
+is the predicted state covariance.
 
 In the update step, the filter incorporates the new measurement $z_{k}$ to refine the state estimate:
 
