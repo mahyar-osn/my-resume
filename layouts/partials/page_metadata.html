@@ -18,9 +18,9 @@
     {{ if $page.Params.custom_date }}
       {{ $page.Params.custom_date | markdownify }}
     {{ else }}
-      {{ $date := $page.Date.Format site.Params.date_format }}
+      {{ $date := $page.Date.Format (.Site.Params.date_format | default "January 2, 2006") }}
       {{ if eq $page.Type "publication" }}
-        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
+        {{ $date = $page.Date.Format (.Site.Params.publications.date_format | default "January, 2006") }}
       {{ end }}
       {{ $date }}
     {{ end }}
@@ -38,7 +38,7 @@
   </span>
   {{ end }}
 
-  {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
+  {{ if and (eq $page.Type "post") (not (or (eq .Site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
   <span class="article-reading-time">
     {{ $page.ReadingTime }} {{ i18n "minute_read" }}
@@ -46,9 +46,9 @@
   {{ end }}
 
   {{/* Show Disqus comment count if enabled. */}}
-  {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}
+  {{ $comments_provider := trim (.Site.Params.comments.provider | default "" | lower) " " }}
   {{ $comments_provider_disqus := eq $comments_provider "disqus" }}
-  {{ if (and $comments_provider_disqus (site.Params.comments.disqus.show_count | default true)) }}
+  {{ if (and $comments_provider_disqus (.Site.Params.comments.disqus.show_count | default true)) }}
   <span class="middot-divider"></span>
   <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
   {{ end}}
@@ -58,9 +58,10 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <i class="fas fa-folder mr-1"></i>
+    {{ $site := $.Site }}
     {{- range $index, $value := . -}}
       {{- if gt $index 0 }}, {{ end -}}
-      <a href="{{ (site.GetPage (printf "/%s/%s" $taxonomy (. | urlize))).RelPermalink }}">{{ . }}</a>
+      <a href="{{ ($site.GetPage (printf "/%s/%s" $taxonomy (. | urlize))).RelPermalink }}">{{ . }}</a>
     {{- end -}}
   </span>
   {{ end }}
