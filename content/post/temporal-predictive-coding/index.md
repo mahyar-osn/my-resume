@@ -1,7 +1,7 @@
 ---
 title: "Temporal Predictive Coding: A New Framework for Neural Processing of Dynamic Stimuli"
 subtitle: "A computational approach to understanding how the brain processes dynamic stimuli"
-date: "2023-11-15T00:00:00Z"
+date: "2024-11-15T00:00:00Z"
 
 # Summary for listings and search engines
 summary: "Our temporal predictive coding model provides a biologically plausible explanation for how the brain processes and predicts dynamic sensory inputs, bridging the gap between normative theories and neural mechanisms."
