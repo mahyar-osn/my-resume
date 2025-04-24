@@ -66,6 +66,7 @@ markup:
     endLevel: 3
   math:
     renderer: katex
+    enable: true
 related:
   threshold: 80
   includeNewer: true

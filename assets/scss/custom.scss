@@ -4,12 +4,37 @@
 .math-display {
   overflow-x: auto;
   margin: 1.2em 0;
+  padding: 0.5em 0;
 }
 
 .math-inline {
   display: inline-block;
   max-width: 100%;
   overflow-x: auto;
+}
+
+// KaTeX specific styles
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.5em 0;
+}
+
+.katex {
+  font-size: 1em !important;
+}
+
+// Fix for long equations
+.katex-display > .katex {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: normal;
+}
+
+// Ensure proper spacing for inline math
+p .math-inline {
+  margin: 0 0.1em;
 }
 
 // Acting gallery styles
