@@ -11,6 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  image_size: "contain"  # Options: "cover", "contain", or "actual"
 
 show_date: true
 

@@ -8,10 +8,10 @@ summary: "153 years ago, Charles Babbage—the father of the computer—passed a
 projects: []
 
 image:
-focal_point: ""
-placement: 2
-preview_only: false
-image_size: "contain"  # Options: "cover", "contain", or "actual"
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  image_size: "contain"  # Options: "cover", "contain", or "actual"
   
 show_date: true
 
