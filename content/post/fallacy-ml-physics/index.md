@@ -22,7 +22,7 @@ image:
 show_date: true
 
 # Custom date display
-custom_date: "Published on August 04, 2023"
+custom_date: "Published on April 22, 2025"
 
 authors:
   - admin
