@@ -1,7 +1,7 @@
 ---
 title: "The Hitchhiker’s Guide to Rebranding Machine Learning (And a Shoutout to Geoff Hinton!)"
 subtitle: "How to Sound Like a Physicist When You’re Really Just Doing Machine Learning"
-date: "2021-03-12T00:00:00Z"
+date: "2024-13-12T00:00:00Z"
 
 
 # Summary for listings and search engines
