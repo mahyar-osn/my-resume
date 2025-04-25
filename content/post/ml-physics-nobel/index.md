@@ -1,11 +1,11 @@
 ---
 title: "The Hitchhiker’s Guide to Rebranding Machine Learning (And a Shoutout to Geoff Hinton!)"
-subtitle: "A Critical Analysis"
+subtitle: "How to Sound Like a Physicist When You’re Really Just Doing Machine Learning"
 date: "2021-03-12T00:00:00Z"
 
 
 # Summary for listings and search engines
-summary: "In this blog, I am going to provide a summary of a book chapter that I recently read, 'Allostasis, interoception, and the free energy principle: Feeling our way forward' by Andrew W Corcoran & Jakob Hohwy. I am also going to give you my own perspective on the topic and form some questions that could be interesting for future research."
+summary: "A playful rebranding of machine learning jargon with a physics twist—plus a shoutout to Geoff Hinton’s historic achievements!"
 
 # Link this post with a project
 projects: []
