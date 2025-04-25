@@ -71,7 +71,7 @@ This reflects how ML approaches in physics often claim breakthroughs that are ac
 in limited domains.
 
 Another illustrative example comes from the field of symbolic regression. 
-While the (AbdusSalam et al. paper)[https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.015022] 
+While the [AbdusSalam et al. paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.015022) 
 in Physical Review D demonstrates how symbolic regression can help derive analytical expressions for physics beyond the
 Standard Model, the authors position it as a tool to assist numerical studies, not as a replacement for physical theory.
 The expressions derived still rely on the underlying physics-based model (the constrained minimal supersymmetric
