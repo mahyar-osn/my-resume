@@ -3,9 +3,8 @@ title: "Why Normalizing Flows (and Tensorizing Flows) deserve more attention"
 subtitle: "Supercharging Normalizing Flows by Tensor Networks as a Game-Changer for Scientific Machine Learning"
 date: "2023-08-04T00:00:00Z"
 
-
 # Summary for listings and search engines
-summary: "Normalizing Flows might not be the flashiest generative models, but their ability to provide exact, normalized densities makes them invaluable for tasks like variational inference. The new "Tensorizing Flows" approach upgrades NFs with a powerful tensor-train base, making them far better at handling complex, high-dimensional, and multimodal distributions—especially in scientific and physics applications."
+summary: "Normalizing Flows might not be the flashiest generative models, but their ability to provide exact, normalized densities makes them invaluable for tasks like variational inference. The new 'Tensorizing Flows' approach upgrades NFs with a powerful tensor-train base, making them far better at handling complex, high-dimensional, and multimodal distributions—especially in scientific and physics applications."
 
 # Link this post with a project
 projects: []
